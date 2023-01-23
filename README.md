@@ -5,3 +5,5 @@ Jika input angka adalah:
  => kelipatan 3: Keluaran Fizz
  => kelipatan 5: Keluaran Buzz
  => keduanya kelipatan 3 dan kelipatan 5: Keluaran FizzBuzz
+ 
+ Check this out :
