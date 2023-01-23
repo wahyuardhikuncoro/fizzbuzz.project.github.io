@@ -9,15 +9,15 @@ btn.addEventListener("click", function () {
 
     if (input == "") {
         alert("Fill Number In The Box!");
-    } else if (input == 0 ) {
-        output = "Invalid Input Number";
+    } else if (input <= 0 ) {
+        output = "Invalid Input Number!";
     } else {
         if (input % 3 == 0 && input % 5 == 0) {
-            output = "FizzBuzz";
+            output = "FizzBuzz!";
         } else if (input % 3 == 0) {
-            output = "Fizz";
+            output = "Fizz!";
         } else if (input % 5 == 0) {
-            output = "Buzz";
+            output = "Buzz!";
         } else {
             output = input;
         }
