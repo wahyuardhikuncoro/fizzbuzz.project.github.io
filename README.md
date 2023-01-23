@@ -6,4 +6,4 @@ Jika input angka adalah:
 ~kelipatan 5: Keluaran Buzz,
 ~keduanya kelipatan 3 dan kelipatan 5: Keluaran FizzBuzz.
  
- Check this out :
+ Check this out : https://wahyuardhikuncoro.github.io/fizzbuzz.project.github.io/
